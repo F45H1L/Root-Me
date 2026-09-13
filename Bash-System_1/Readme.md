@@ -1,4 +1,5 @@
 # Bash - System 1 - Find your path, padawan!
+### Challenge Link: https://www.root-me.org/en/Challenges/App-Script/ELF32-System-1
 ## 1. SSH into the challenge
 ```bash
 ssh -p 2222 app-script-ch11@challenge02.root-me.org
